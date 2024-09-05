@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on getting my Medialogy master's degree at AAU
+- 🌱 I’m currently learning Machine Learning
+- 🤔 I’m looking for help with debugging my analog synthesizer
+- 💬 Ask me about ...
 <!--
 **DiscoLucas/DiscoLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
